@@ -7,7 +7,7 @@ import pytest
 import requests_mock
 
 
-client = Client('api_key', 'api_secret')
+client = Client('ZrfLEyStgRqRuRrtEmW8iZ45dtrCVB4uBtmj5AeBn0b3OAmLxZFffFEFMiwSfgXT', 'iTek3s2JRWMcH14RHBdGqhKtKnifOKArI8guE6M5gX82NaE0JRb0GQO28OqxMovU')
 
 
 def test_invalid_json():
